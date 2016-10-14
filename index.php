@@ -1,0 +1,1 @@
+<meta http-equiv="refresh" content="0; url=simpletodo_client_browser">

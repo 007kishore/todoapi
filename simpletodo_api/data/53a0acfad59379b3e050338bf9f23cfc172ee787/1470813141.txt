@@ -1,0 +1,1 @@
+a:5:{s:7:"todo_id";i:1470813141;s:5:"title";s:80:"How to get rid of the special characters getting from the database using smarty?";s:11:"description";s:132:"This problem is created during the training period of mine where I read a lot about the theory of concepts..and used to apply them..";s:8:"date_due";N;s:7:"is_done";s:5:"false";}

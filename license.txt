@@ -1,1 +1,2 @@
 This is license file.
+Hello and welcome to file of license.
